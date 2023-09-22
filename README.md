@@ -10,13 +10,13 @@
   `git clone https://github.com/amandandrad/nlwia.git`
 
 - Instale as depedências
-  <br> `npm install``
+  <br> `npm install`
 
 - Rode o servidor
-  <br>`npm run server``
+  <br>`npm run server`
 
 - Rode a aplicação
-  <br> `npm run web``
+  <br> `npm run web`
 
 - Acesse http://localhost:5173
 
