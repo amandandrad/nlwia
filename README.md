@@ -7,7 +7,7 @@
 ## Passos para rodar a aplicação
 
 - Faça o clone do projeto rodando o seguinte comando:
-  `git clone https://github.com/amandandrad/nlwia.git`
+  <br> git`git clone https://github.com/amandandrad/nlwia.git`
 
 - Instale as depedências
   <br> `npm install`
