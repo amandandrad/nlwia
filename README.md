@@ -28,4 +28,4 @@
   <img src="./.github/logolinke.png" alt="Logo Linkendin" alingn="center" heigth="50" width="60">
 </a>
 
-### Projeto criado por Rodrigo Gonçalves - Instrutor Rocketseat
+#### Projeto criado por Rodrigo Gonçalves - Instrutor Rocketseat
