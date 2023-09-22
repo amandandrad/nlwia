@@ -1,6 +1,6 @@
 # Projeto NLW IA
 
-### Este é um projeto realizado durante os estudos da NLW IA e o intuito dassa aplicação é fazer resumos de vídeos shots do youtube.
+### O intuito desta aplicação é fazer resumos de vídeos shots do youtube.
 
 <img src="./.github/screenchot.png" alt="Imagem da aplicação">
 
@@ -28,4 +28,4 @@
   <img src="./.github/logolinke.png" alt="Logo Linkendin" alingn="center" heigth="50" width="60">
 </a>
 
-#### Projeto criado por Rodrigo Gonçalves - Instrutor Rocketseat
+#### Projeto realizado em conjunto durante os estudos realizados no envento NLW da Rocketseat
